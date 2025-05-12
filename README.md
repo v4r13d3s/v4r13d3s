@@ -5,4 +5,6 @@
     </h1>
 </div>
 
-![Banner de Oscar](banner.png) 
+<p align="center">
+  <img src="banner.png" alt="Banner de Oscar">
+</p>
