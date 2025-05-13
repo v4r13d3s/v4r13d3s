@@ -57,5 +57,4 @@
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v4r13d3s&hide=javascript,html)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
