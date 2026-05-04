@@ -9,7 +9,7 @@
   <img src="banner.png" alt="Banner de Oscar">
 </p>
 
-<p align="center" style="font-size: 25px">Lenguages 📔</p>
+<h3 align="center">Lenguages 📔</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -24,7 +24,7 @@
     
 </p>
 
-<p align="center" style="font-size: 25px">Database 💾</p>
+<h3 align="center">Database 💾</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<p align="center" style="font-size: 25px">Frameworks 🔧</p>
+<h3 align="center">Frameworks 🔧</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -42,21 +42,21 @@
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
-<p align="center" style="font-size: 25px">Tools ⚙️</p>
+<h3 align="center">Tools ⚙️</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
 </p>
 
-<p align="center" style="font-size: 25px">Designed tools 🖌️</p>
+<h3 align="center">Designed tools 🖌️</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
 </p>
 
-<p align="center" style="font-size: 25px">IDEs/Editors 💻</p>
+<h3 align="center">IDEs/Editors 💻</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white"/>
@@ -67,17 +67,19 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-<h1 align="center">📊 GitHub Stats</h1>
+<h3 align="center">GitHub Stats 📊</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=v4r13d3s&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=v4r13d3s&theme=radical&hide_border=false" />
+    <img src="https://streak-stats.demolab.com/?user=v4r13d3s&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=v4r13d3s&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
+<h3 align="center">Random Dev Quote ✍️</h3>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+</p>
