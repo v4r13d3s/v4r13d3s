@@ -67,10 +67,17 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v4r13d3s&layout=compact)
+<h1 align="center">📊 GitHub Stats</h1>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=v4r13d3s&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=v4r13d3s&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=v4r13d3s&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=v4r13d3s&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=v4r13d3s&theme=radical&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=v4r13d3s&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
