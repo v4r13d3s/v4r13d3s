@@ -68,3 +68,9 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v4r13d3s&layout=compact)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=v4r13d3s&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=v4r13d3s&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=v4r13d3s&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
