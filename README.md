@@ -67,6 +67,23 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
+---
+
+<h2 align="center">📌 Featured Projects</h2>
+
+<div align="center">
+
+| Project | Description |
+|----------|-------------|
+| 🏥 Alma | Medical management system with appointments, records and dashboards |
+| 🔗 REST API | API built with Node.js, Express, MongoDB and Swagger |
+| 📱 Ionic App | Mobile application focused on productivity and management |
+| 📊 Dashboards | Interactive dashboards with database integrations |
+
+</div>
+
+---
+
 <h3 align="center">GitHub Stats 📊</h3>
 
 <p align="center">
@@ -76,6 +93,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=v4r13d3s&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=v4r13d3s&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
 ---
